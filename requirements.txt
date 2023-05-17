@@ -1,0 +1,5 @@
+gradio~=3.0.20
+keras~=2.8.0
+numpy~=1.21.5
+tensorflow
+opencv-python~=4.5.5
