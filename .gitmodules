@@ -1,0 +1,4 @@
+[submodule "pix2code"]
+	path = pix2code
+	url = https://github.com/tonybeltramelli/pix2code.git
+	shallow = true
